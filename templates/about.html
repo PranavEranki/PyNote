@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+
+{% load staticfiles %}
+{% load crispy_forms_tags %}
+
+{% block title %}{{ block.super }}About{% endblock %}
+
+{% block navbar-left %}
+  {% include "_navbar.html" with active_link="about" %}
+{% endblock %}
+
+<!-- Benefits of the Django application -->
+{% block container %}
+
+<div id="sec1" class="text-page">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <h1>{% include "_brandname.html" %}</h1>
+        <p class="lead">Keep a note. Keep ideas. Keep your dreams.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="sec2" class="text-page">
+  <div class="container">
+    <h5><p>PyNote is a simple note taking Django project. It was developed to act as a hands-on project to increase my MTV framework knowledge.</p></h5>
+    <br>
+    <br>
+    <ul class="list-group"><h2>Features of PyNote - keep a Note</h2>
+      <li class="list-group-item">Customize notes using the markdown editor. You dont need to know markdown syntax, as the editor will help you.</li>
+      <li class="list-group-item">Save, Update, delete notes, and assign tags.</li>
+      <li class="list-group-item">Support for code blocks and highlighting.</li>
+      <li class="list-group-item">Fully responsive. Usable on any site, once published, and view automatically adjusts.</li>
+
+      <img class="img-responsive" src="{% static 'PyNote-screenshots/desktop/notesIndex.PNG' %}">
+      <br/>
+      <br/>
+      <hr/>
+      <br/>
+      <br/>
+      <img class="img-responsive" src="{% static 'PyNote-screenshots/desktop/addNotes.PNG' %}">
+      <br/>
+      <br/>
+      <hr/>
+      <br/>
+      <br/>
+      <img class="img-responsive" src="{% static 'PyNote-screenshots/desktop/editOrDelete.PNG' %}">
+      <br/>
+      <br/>
+      <hr/>
+      <br/>
+      <br/>
+      <img class="img-responsive" src="{% static 'PyNote-screenshots/desktop/userProfile.PNG' %}">
+      <br/>
+      <br/>
+      <hr/>
+      <br/>
+      <br/>
+      <img class="img-responsive" src="{% static 'PyNote-screenshots/desktop/editProfile.PNG' %}">
+    </ul>
+    <br>
+    <br>
+<h4> <p>for more info go to the github page.  <a href="https://github.com/">Link</a></p></h4>
+
+
+
+	</div>
+</div>
+
+
+{% endblock container %}
