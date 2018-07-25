@@ -74,16 +74,24 @@ If you encounter other errors, please bring up an issue on the repo site. I will
 ![](static/PyNote-screenshots/desktop/about.png)
 
 ### Notes
+General notes page
 ![](static/PyNote-screenshots/desktop/notesIndex.png)
+Adding a note
 ![](static/PyNote-screenshots/desktop/addNotes.png)
+Editing or deleting a note
 ![](static/PyNote-screenshots/desktop/editOrDelete.png)
+Creating tags
 ![](static/PyNote-screenshots/desktop/createTag.PNG)
 ### Profile
+General profile page
 ![](static/PyNote-screenshots/desktop/userProfile.png)
+Editing profile page
 ![](static/PyNote-screenshots/desktop/editProfile.png)
 
 ### Signup/Login
+Signup page
 <img src="static/PyNote-screenshots/desktop/signup.PNG" width="400">
+Login page
 <img src="static/PyNote-screenshots/desktop/login.PNG" width="400">
 
 
