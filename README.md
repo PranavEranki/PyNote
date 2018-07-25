@@ -28,10 +28,9 @@ the MTV framework.
 ## Things I Learned
 
 *   Working with a MTV
-*   By doing this project I came to know more about Django's more complex
-*   integrating differnt packages into a single project
+*   Django's more complex functions and features
+*   Integrating different packages into a single project
 *   Database operations on a RDBMS
-*   hosting and configuring the project on pythonanwhere.com
 
 ## Resources/packages used
 
