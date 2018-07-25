@@ -63,7 +63,8 @@ You should see a few statements, where the second is the date and the last state
 If you do not see these, and instead get an error, you are probably using a later version of Django. I am using 1.10.6 for this project(Yes, this is slightly outdated, but I am more comfortable with it when constructing apps with Django.) Make sure to install the correct modules and dependencies using the command specified above. Once this is done, and you get no errors when running the server, visit `127.0.0.1:8000` on your web browser and don't forget to give me some feedback.
 If you encounter other errors, please bring up an issue on the repo site. I will gladly look into it.
 
-
+### Current problems
+The profile pic png is currently not working
 
 ## Screenshots
 
@@ -89,9 +90,7 @@ Editing profile page
 ![](static/PyNote-screenshots/desktop/editProfile.png)
 
 ### Signup/Login
-Signup page
 <img src="static/PyNote-screenshots/desktop/signup.PNG" width="400">
-Login page
 <img src="static/PyNote-screenshots/desktop/login.PNG" width="400">
 
 
