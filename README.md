@@ -71,8 +71,8 @@ If you encounter other errors, please bring up an issue on the repo site. I will
 ### About
 ![](static/PyNote-screenshots/desktop/about.PNG)
 ### Signup/Login
-![](static/PyNote-screenshots/desktop/signup.PNG)
-![](static/PyNote-screenshots/desktop/login.PNG)
+<img src="static/PyNote-screenshots/desktop/signup.PNG" width="400">
+<img src="static/PyNote-screenshots/desktop/login.PNG" width="400">
 ### Notes
 ![](static/PyNote-screenshots/desktop/notesIndex.PNG)
 ![](static/PyNote-screenshots/desktop/addNotes.PNG)
