@@ -71,16 +71,16 @@ If you encounter other errors, please bring up an issue on the repo site. I will
 ![](static/PyNote-screenshots/desktop/home.PNG)
 
 ### About
-![](static/PyNote-screenshots/desktop/about.PNG)
+![](static/PyNote-screenshots/desktop/about.png)
 
 ### Notes
-![](static/PyNote-screenshots/desktop/notesIndex.PNG)
-![](static/PyNote-screenshots/desktop/addNotes.PNG)
-![](static/PyNote-screenshots/desktop/editOrDelete.PNG)
+![](static/PyNote-screenshots/desktop/notesIndex.png)
+![](static/PyNote-screenshots/desktop/addNotes.png)
+![](static/PyNote-screenshots/desktop/editOrDelete.png)
 ![](static/PyNote-screenshots/desktop/createTag.PNG)
 ### Profile
-![](static/PyNote-screenshots/desktop/userProfile.PNG)
-![](static/PyNote-screenshots/desktop/editProfile.PNG)
+![](static/PyNote-screenshots/desktop/userProfile.png)
+![](static/PyNote-screenshots/desktop/editProfile.png)
 
 ### Signup/Login
 <img src="static/PyNote-screenshots/desktop/signup.PNG" width="400">
