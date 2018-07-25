@@ -43,11 +43,11 @@ the MTV framework.
 ## How to run the project locally
 
 ### Download
-Download the zip by going to the 'Clone or Download' green button in the middle-right of the page.
+__Download the zip__ by going to the Clone or Download green button in the middle-right of the page.
 Once you locate this button, click it once, and two options will appear. Click the bottom right link, which
 says 'Download ZIP'. This will download the zip into your computer. Then, move the zip to a directory of your choice
-### OR
-Clone this repository by going to the directory of your choice where you want this to be installed, then execute this line in the terminal:
+###### or
+__Clone this repository__ by going to the directory of your choice where you want this to be installed, then execute this line in the terminal:
 `git clone https://github.com/PranavEranki/PyNote.git`
 
 Now, once you have done this, go to the project's folder. Go 1 folder deeper into the project, so you see the requirements.txt file. Then, install the dependencies by simply typing
