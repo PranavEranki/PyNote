@@ -64,7 +64,12 @@ If you do not see these, and instead get an error, you are probably using a late
 If you encounter other errors, please bring up an issue on the repo site. I will gladly look into it.
 
 ### Current problems
-The profile pic png is currently not working
+The profile pic png is currently not working.
+
+### Admin credentials
+The admin site for this website is (website_name)/admin. If you are locally hosting it, go to
+127.0.0.1:8000/admin to view the admin site. Then, to login, the email is 'admin@PyNote.com', with the
+password being 'admin123' - the apostrophes are not included.
 
 ## Screenshots
 
