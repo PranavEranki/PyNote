@@ -1,10 +1,10 @@
 # PyNote
 A simple note taking app made with Django 1.10.6
 
-#####Note:
+##### Note:
 I committed this to Github in its final stages. I have been working on it for almost the entire month of July, but I did not upload it because I thought I would instead turn it into a note website. However, I reconsidered the practicality of this, and instead decided to upload the project to Github as an open-source project for anyone to use, contribute to, and enjoy.
 
-##What is Pynote?
+## What is Pynote?
 
 PyNote is a simple note taking Django project. It was developed as a hands-on project
 for me to increase my experience with more complex Django concepts, as well as
