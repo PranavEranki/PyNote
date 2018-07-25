@@ -37,16 +37,16 @@ the MTV framework.
 *   [django-crispy-forms](http://django-crispy-forms.readthedocs.io/en/latest/): it makes your forms way more beautiful
 *   [virtualenv](https://virtualenv.pypa.io/en/stable/): Allows a nice environment, hence virtual environment, for you to contain and test your site with the proper modules.
 *   [django-pagedown](https://github.com/timmyomahony/django-pagedown): Provides an easy editor for markdown input.
-*   Many other packages are used, for them do check the requirement file.[link](https://github.com/PranavEranki/PyNote/blob/master/requirements.txt):
+*   Many other packages are used, for them do check the requirement file. [link](https://github.com/PranavEranki/PyNote/blob/master/requirements.txt):
 
 
 ## How to run the project locally
 
-###Download
+### Download
 Download the zip by going to the 'Clone or Download' green button in the middle-right of the page.
 Once you locate this button, click it once, and two options will appear. Click the bottom right link, which
 says 'Download ZIP'. This will download the zip into your computer. Then, move the zip to a directory of your choice
-###OR
+### OR
 Clone this repository by going to the directory of your choice where you want this to be installed, then execute this line in the terminal:
 `git clone https://github.com/PranavEranki/PyNote.git`
 
@@ -54,7 +54,7 @@ Now, once you have done this, go to the project's folder. Go 1 folder deeper int
 `pip install -r requirements.txt`
 into your command line
 
-###Execution
+### Execution
 Now that you have the project downloaded, go into the PyNote folder inside the project.
 Once you do this, in the listing of the directory, you should see 4 folders, labeled 'PyNote', 'accounts', 'notes', and 'profiles', along with a python file 'manage.py'.
 Run this command in you terminal to start the app:
@@ -66,19 +66,19 @@ If you encounter other errors, please bring up an issue on the repo site. I will
 
 
 ## Screenshots
-###Home
+### Home
 ![](static/PyNote-screenshots/desktop/home.PNG)
-###About
+### About
 ![](static/PyNote-screenshots/desktop/about.PNG)
-###Signup/Login
+### Signup/Login
 ![](static/PyNote-screenshots/desktop/signup.PNG" width="400")
 ![](static/PyNote-screenshots/desktop/login.PNG" width="400")
-###Notes
+### Notes
 ![](static/PyNote-screenshots/desktop/notesIndex.PNG)
 ![](static/PyNote-screenshots/desktop/addNotes.PNG)
 ![](static/PyNote-screenshots/desktop/editOrDelete.PNG)
 ![](static/PyNote-screenshots/desktop/createTag.PNG)
-###Profile
+### Profile
 ![](static/PyNote-screenshots/desktop/userProfile.PNG)
 ![](static/PyNote-screenshots/desktop/editProfile.PNG)
 
